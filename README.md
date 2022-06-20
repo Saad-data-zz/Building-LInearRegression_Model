@@ -15,4 +15,3 @@ Calculating Error by using Mean square error, use the function of model.intercep
 Use model.coef_ function to measure the weight od model.
 In the end we use scatter plot to visualise our model prediction.We using the line to decrease the error
 END
-
